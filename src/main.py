@@ -8,3 +8,8 @@ def main(unused_param):
         pass
 
 main()
+
+
+class MyClass:
+    def __div__(a, b):
+        pass
